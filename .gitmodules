@@ -1,0 +1,3 @@
+[submodule "rbdl"]
+	path = rbdl
+	url = ../../rbdl/rbdl.git
