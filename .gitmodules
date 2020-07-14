@@ -1,3 +1,6 @@
 [submodule "rbdl"]
 	path = rbdl
 	url = ../../rbdl/rbdl.git
+[submodule "urdf_tmp"]
+	path = urdf_tmp
+	url = ../urdf_tmp
