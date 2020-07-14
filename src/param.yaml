@@ -1,0 +1,5 @@
+model: /home/lee/unhuman/realtime-rbdl/rbdl/examples/urdfreader/nao.urdf
+joint_to_actuator: [[1, 2, 3],
+                    [4, 5, 6]]
+control_body: 'RHand'
+jacobian_additional: [[0, 1, 1]]
